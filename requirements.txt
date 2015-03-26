@@ -1,6 +1,17 @@
+#Pre-requisites
 Python 2.7.9
 python -m easy_install Flask>=0.8
 python -m easy_install twilio>=3.3.6
+
+#Twilio stuff
 Twilio (480) 526-9970
 Voice http://evening-mesa-7441.herokuapp.com/caller
 Messaging https://demo.twilio.com/welcome/sms/reply/
+
+#Sample run
+Now try running run.py in your terminal, type: 
+python run.py
+* Running on http://127.0.0.1:5000/ 
+
+Navigate to http://localhost:5000 in your browser. You should see a Hello World message
+
